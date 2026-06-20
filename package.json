@@ -1,0 +1,28 @@
+{
+  "name": "dbl-tiles-gallery",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "better-auth": "^1.2.7",
+    "mongodb": "^6.12.0",
+    "react-hot-toast": "^2.4.1",
+    "animate.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "typescript": "^5",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0"
+  }
+}
